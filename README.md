@@ -1,4 +1,4 @@
-![title](vessels.png
+![title](vessels.png)
 
 # Ship or vessel detection
 
